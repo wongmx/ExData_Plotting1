@@ -73,12 +73,12 @@ functions.
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
 
-### Plot 3
+### Plot 3 - Global Active Power (KW) from 3 sub meters (kitchen, laundry room, electric water-heater)
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
 
-### Plot 4
+### Plot 4 - Combining 4 plots in one diagram
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
