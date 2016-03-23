@@ -62,13 +62,13 @@ functions.
 
 
 
-### Plot 1
+### Plot 1 - Global Active Power (KW)
 
 
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
 
-### Plot 2
+### Plot 2 - Global Active Power (KW) from 1/2/2007 to 2/2/2007
 
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
